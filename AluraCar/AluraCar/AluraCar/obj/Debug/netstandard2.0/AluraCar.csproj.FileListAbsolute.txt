@@ -1,0 +1,14 @@
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\bin\Debug\netstandard2.0\AluraCar.deps.json
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\bin\Debug\netstandard2.0\AluraCar.dll
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\bin\Debug\netstandard2.0\ref\AluraCar.dll
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\bin\Debug\netstandard2.0\AluraCar.pdb
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.csprojAssemblyReference.cache
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.AssemblyInfoInputs.cache
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.AssemblyInfo.cs
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.csproj.CoreCompileInputs.cache
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.dll
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\ref\AluraCar.dll
+C:\Users\mavieira\Desktop\TestesDev\Alura\alura_xamarinpt1\AluraCar\AluraCar\AluraCar\obj\Debug\netstandard2.0\AluraCar.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AluraCar.MainPage">
+
+    <!--<StackLayout>
+        <Label Text="Olá Yonathan y Gabryelison!" 
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+        <Label Text="Tudo bem com vocês?" />
+        <Label Text="Espero que sim" />
+        </StackLayout>-->
+
+    <!--<Grid VerticalOptions="Start">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Text="Candidate"/>
+        <Label Grid.Row="0" Grid.Column="1" Text="Tly Votes"/>
+        <Label Grid.Row="0" Grid.Column="2" Text="% Votes"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Text="Trump / Pence"/>
+        <Label Grid.Row="1" Grid.Column="1" Text="62.829.410"/>
+        <Label Grid.Row="1" Grid.Column="2" Text="46,10%"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Text="Clinton / Kaine"/>
+        <Label Grid.Row="2" Grid.Column="1" Text="65.483.780"/>
+        <Label Grid.Row="2" Grid.Column="2" Text="48,05%"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Text="Johnson / Weld"/>
+        <Label Grid.Row="3" Grid.Column="1" Text="4.476.220"/>
+        <Label Grid.Row="3" Grid.Column="2" Text="3,28%"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Text="Stein / Baraka"/>
+        <Label Grid.Row="4" Grid.Column="1" Text="1.449.726"/>
+        <Label Grid.Row="4" Grid.Column="2" Text="1,06%"/>
+    </Grid>-->
+
+    <ListView x:Name="lstVeiculos">
+        
+    </ListView>
+
+</ContentPage>

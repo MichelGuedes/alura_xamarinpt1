@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATJZxOQLVgxCVpoq1C9VAyNRXIdmqaVh/N6dGjOSWIQlKgesPVW6GQ+gMtjVAnFk+D3gyJPrzsy9Hh1gwC6pdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavieira\\Desktop\\TestesDev\\Alura\\alura_xamarinpt1\\AluraCar\\AluraCar\\AluraCar.iOS\\AluraCar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavieira\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
